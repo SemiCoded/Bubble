@@ -22,7 +22,7 @@ Category: Productivity, Social
 
 ---
 
-###Product Spec Design: Bubble
+### Product Spec Design: Bubble
 ## 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
