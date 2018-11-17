@@ -89,7 +89,6 @@ Category: Productivity, Social
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
 <img src="https://media.giphy.com/media/2sfgibxnljvGk38pzr/giphy.gif"/>
 ---
 
